@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resti</title>
+    <link>https://example.com/</link>
+    <description>Resti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>eo</language>
+    <lastBuildDate>Sat, 15 Aug 2020 15:27:45 -0400</lastBuildDate>
+    
+    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vortglavo</title>
+      <link>https://example.com/post/vortglavo/</link>
+      <pubDate>Sun, 16 Aug 2020 18:28:34 -0400</pubDate>
+      
+      <guid>https://example.com/post/vortglavo/</guid>
+      <description>&lt;p&gt;Extra pages at a book&amp;rsquo;s end prove that it is honest.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Veraj paĝoj havas molaĵon.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Rotting fallen fruit proves that a tree has grown.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Veraj fruktoj havas semojn.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Sour green berries prove that the harvest has passed.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Veraj vitoj havas dornojn.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Joseph&amp;rsquo;s cry proves that Rachel had once been near.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Veraj ekziloj havas mantelojn.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The lying wedding veil proves the bride unknown.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Veraj veroj havas malverojn.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Quality wine saved for the end proves the host.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Veraj amikoj havas tempon.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Long and burdensome conversations prove friendship.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Veraj vortoj havas glavojn.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pri ĉi tio blogo</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Sat, 15 Aug 2020 15:27:45 -0400</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>&lt;p&gt;Jen mia blogo. Ĝi enhavas skribon ambaŭ en Esperanto kaj la Angla.&lt;/p&gt;
+&lt;p&gt;Per la merito de la &lt;a href=&#34;https://github.com/mitrichius/hugo-theme-anubis&#34;&gt;Anubis&lt;/a&gt; aspekto por la &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; reteja generatoro uzinta efektivigi ĉi tio, la interfaco povas esti ŝaltita inter la two lingvoj per la ŝaltiloj sub la enhavo en la hejmpaĝo. Esperanto estas normale elektita.&lt;/p&gt;
+&lt;p&gt;La blogartikulo skribitos en ĉu Esperanto or la Angla. Tradukoj kongruanta de la lingvo de la interfaco ne provizos, krom ĉi tiu informa paĝo.&lt;/p&gt;
+&lt;p&gt;Dankon, kiu ajn vi estas. Ke vi marŝu en paco kaj graco.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://example.com/about.pl/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about.pl/</guid>
+      <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;&gt;Apache Licence 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
+&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/yuin/goldmark&#34;&gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/alecthomas/chroma&#34;&gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/muesli/smartcrop&#34;&gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;
+&lt;p&gt;Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.&lt;/p&gt;
+&lt;p&gt;Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.&lt;/p&gt;
+&lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/gohugoio&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
