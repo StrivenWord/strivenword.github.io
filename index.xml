@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resti</title>
-    <link>https://example.com/</link>
+    <link>https://strivenword.github.io/</link>
     <description>Resti</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>eo</language>
     <lastBuildDate>Sat, 15 Aug 2020 15:27:45 -0400</lastBuildDate>
     
-    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://strivenword.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Vortglavo</title>
-      <link>https://example.com/post/vortglavo/</link>
+      <link>https://strivenword.github.io/post/vortglavo/</link>
       <pubDate>Sun, 16 Aug 2020 18:28:34 -0400</pubDate>
       
-      <guid>https://example.com/post/vortglavo/</guid>
+      <guid>https://strivenword.github.io/post/vortglavo/</guid>
       <description>&lt;p&gt;Extra pages at a book&amp;rsquo;s end prove that it is honest.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Veraj paĝoj havas molaĵon.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Rotting fallen fruit proves that a tree has grown.&lt;/p&gt;
@@ -35,10 +35,10 @@
     
     <item>
       <title>Pri ĉi tio blogo</title>
-      <link>https://example.com/about/</link>
+      <link>https://strivenword.github.io/about/</link>
       <pubDate>Sat, 15 Aug 2020 15:27:45 -0400</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>https://strivenword.github.io/about/</guid>
       <description>&lt;p&gt;Jen mia blogo. Ĝi enhavas skribon ambaŭ en Esperanto kaj la Angla.&lt;/p&gt;
 &lt;p&gt;Per la merito de la &lt;a href=&#34;https://github.com/mitrichius/hugo-theme-anubis&#34;&gt;Anubis&lt;/a&gt; aspekto por la &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; reteja generatoro uzinta efektivigi ĉi tio, la interfaco povas esti ŝaltita inter la two lingvoj per la ŝaltiloj sub la enhavo en la hejmpaĝo. Esperanto estas normale elektita.&lt;/p&gt;
 &lt;p&gt;La blogartikulo skribitos en ĉu Esperanto or la Angla. Tradukoj kongruanta de la lingvo de la interfaco ne provizos, krom ĉi tiu informa paĝo.&lt;/p&gt;
@@ -48,19 +48,19 @@
     
     <item>
       <title></title>
-      <link>https://example.com/archives/</link>
+      <link>https://strivenword.github.io/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/archives/</guid>
+      <guid>https://strivenword.github.io/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://example.com/about.pl/</link>
+      <link>https://strivenword.github.io/about.pl/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about.pl/</guid>
+      <guid>https://strivenword.github.io/about.pl/</guid>
       <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;&gt;Apache Licence 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
 &lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
 &lt;ul&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resti</title>
-    <link>https://example.com/en/</link>
+    <link>https://strivenword.github.io/en/</link>
     <description>Resti</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>eo</language>
     <lastBuildDate>Sat, 15 Aug 2020 15:27:45 -0400</lastBuildDate>
     
-    <atom:link href="https://example.com/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://strivenword.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Vortglavo</title>
-      <link>https://example.com/en/post/vortglavo/</link>
+      <link>https://strivenword.github.io/en/post/vortglavo/</link>
       <pubDate>Sun, 16 Aug 2020 18:28:34 -0400</pubDate>
       
-      <guid>https://example.com/en/post/vortglavo/</guid>
+      <guid>https://strivenword.github.io/en/post/vortglavo/</guid>
       <description>&lt;p&gt;Extra pages at a book&amp;rsquo;s end prove that it is honest.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Veraj paĝoj havas molaĵon.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Rotting fallen fruit proves that a tree has grown.&lt;/p&gt;
@@ -35,10 +35,10 @@
     
     <item>
       <title>About this blog</title>
-      <link>https://example.com/en/about/</link>
+      <link>https://strivenword.github.io/en/about/</link>
       <pubDate>Sat, 15 Aug 2020 15:27:45 -0400</pubDate>
       
-      <guid>https://example.com/en/about/</guid>
+      <guid>https://strivenword.github.io/en/about/</guid>
       <description>&lt;p&gt;This is my blog. It has content in both Esperanto and English.&lt;/p&gt;
 &lt;p&gt;Thanks to the &lt;a href=&#34;https://github.com/mitrichius/hugo-theme-anubis&#34;&gt;Anubis&lt;/a&gt; theme for the &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; website system used to implement this blog, the interface can be switched between the two languages using the toggles at the bottom of the homepage. Esperanto is selected by default.&lt;/p&gt;
 &lt;p&gt;The blog posts will be written in either Esperanto or English. Matching translations to correspond with the selected interface language will probably not be provided, with the exception of this informational page.&lt;/p&gt;
