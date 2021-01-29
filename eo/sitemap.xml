@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2021-01-28T06:18:22-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://example.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/angla-lingvo/</loc>
+    <lastmod>2021-01-28T06:18:22-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/</loc>
+    <lastmod>2021-01-28T06:18:22-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://example.com/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/esperanta-lingvo/</loc>
+    <lastmod>2021-01-28T06:18:22-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2021-01-28T06:18:22-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://example.com/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/pre%C4%9Do/</loc>
+    <lastmod>2021-01-28T06:18:22-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/post/realeco/</loc>
+    <lastmod>2021-01-28T06:18:22-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/en/post/realeco/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://example.com/post/realeco/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/respeguli%C4%9Do/</loc>
+    <lastmod>2021-01-28T06:18:22-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2021-01-28T06:18:22-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://example.com/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/poezio/</loc>
+    <lastmod>2020-08-16T18:28:34-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/post/vortglavo/</loc>
+    <lastmod>2020-08-16T18:28:34-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/en/post/vortglavo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://example.com/post/vortglavo/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.com/about/</loc>
+    <lastmod>2020-08-15T15:27:45-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://example.com/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.com/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/about.pl/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/index/</loc>
+  </url>
+  
+</urlset>

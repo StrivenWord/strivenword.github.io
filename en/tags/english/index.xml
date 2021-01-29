@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>English on Resti</title>
+    <link>https://example.com/en/tags/english/</link>
+    <description>Resti (English)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>eo</language>
+    <lastBuildDate>Thu, 28 Jan 2021 06:18:22 -0500</lastBuildDate>
+    
+    <atom:link href="https://example.com/en/tags/english/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reality Prayer</title>
+      <link>https://example.com/en/post/realeco/</link>
+      <pubDate>Thu, 28 Jan 2021 06:18:22 -0500</pubDate>
+      
+      <guid>https://example.com/en/post/realeco/</guid>
+      <description>&lt;p&gt;May I make the best of what is given me today, living thoroughly the life I have without denying what this life suggests.&lt;/p&gt;
+&lt;p&gt;May I accept failure without ever accepting defeat, never giving up even after it is already too late.&lt;/p&gt;
+&lt;p&gt;Though I suffer, let my suffering not be the vacant hunger of those who live only to consume because they have given up hope.&lt;/p&gt;
+&lt;p&gt;Please let me see my hope today.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vortglavo</title>
+      <link>https://example.com/en/post/vortglavo/</link>
+      <pubDate>Sun, 16 Aug 2020 18:28:34 -0400</pubDate>
+      
+      <guid>https://example.com/en/post/vortglavo/</guid>
+      <description>&lt;p&gt;Extra pages at a book&amp;rsquo;s end prove that it is honest.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Veraj paĝoj havas molaĵon.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Rotting fallen fruit proves that a tree has grown.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Veraj fruktoj havas semojn.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Sour green berries prove that the harvest has passed.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Veraj vitoj havas dornojn.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Joseph&amp;rsquo;s cry proves that Rachel had once been near.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Veraj ekziloj havas mantelojn.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The lying wedding veil proves the bride unknown.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Veraj veroj havas malverojn.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Quality wine saved for the end proves the host.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Veraj amikoj havas tempon.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Long and burdensome conversations prove friendship.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Veraj vortoj havas glavojn.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
