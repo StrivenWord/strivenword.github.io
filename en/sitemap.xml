@@ -70,28 +70,6 @@
   <url>
     <loc>https://strivenword.github.io/en/tags/</loc>
     <lastmod>2021-01-28T06:18:22-05:00</lastmod>
-    <loc>https://strivenword.github.io/en/categories/poetry/</loc>
-    <lastmod>2020-08-16T18:28:34-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://strivenword.github.io/en/post/vortglavo/</loc>
-    <lastmod>2020-08-16T18:28:34-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="eo"
-                href="https://strivenword.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://strivenword.github.io/en/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://strivenword.github.io/en/tags/</loc>
-    <lastmod>2021-01-28T06:18:22-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="eo"
@@ -136,6 +114,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://strivenword.github.io/en/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://strivenword.github.io/en/</loc>
+    <lastmod>2020-08-15T15:27:45-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://strivenword.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://strivenword.github.io/en/"
                 />
   </url>
   
