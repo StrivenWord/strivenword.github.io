@@ -4,12 +4,12 @@
   
   <url>
     <loc>https://strivenword.github.io/tags/angla-lingvo/</loc>
-    <lastmod>2021-01-28T06:18:22-05:00</lastmod>
+    <lastmod>2021-02-24T23:21:30-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://strivenword.github.io/categories/</loc>
-    <lastmod>2021-01-28T06:18:22-05:00</lastmod>
+    <lastmod>2021-02-24T23:21:30-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -23,13 +23,8 @@
   </url>
   
   <url>
-    <loc>https://strivenword.github.io/tags/esperanta-lingvo/</loc>
-    <lastmod>2021-01-28T06:18:22-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://strivenword.github.io/post/</loc>
-    <lastmod>2021-01-28T06:18:22-05:00</lastmod>
+    <lastmod>2021-02-24T23:21:30-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -40,6 +35,46 @@
                 hreflang="eo"
                 href="https://strivenword.github.io/post/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://strivenword.github.io/tags/</loc>
+    <lastmod>2021-02-24T23:21:30-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://strivenword.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://strivenword.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://strivenword.github.io/categories/tezo/</loc>
+    <lastmod>2021-02-24T23:21:30-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://strivenword.github.io/post/writing-right/</loc>
+    <lastmod>2021-02-24T23:21:30-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://strivenword.github.io/en/post/writing-right/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://strivenword.github.io/post/writing-right/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://strivenword.github.io/tags/esperanta-lingvo/</loc>
+    <lastmod>2021-01-28T06:18:22-05:00</lastmod>
   </url>
   
   <url>
@@ -65,21 +100,6 @@
   <url>
     <loc>https://strivenword.github.io/categories/respeguli%C4%9Do/</loc>
     <lastmod>2021-01-28T06:18:22-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://strivenword.github.io/tags/</loc>
-    <lastmod>2021-01-28T06:18:22-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://strivenword.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="eo"
-                href="https://strivenword.github.io/tags/"
-                />
   </url>
   
   <url>

@@ -58,8 +58,18 @@
   </url>
   
   <url>
-    <loc>https://strivenword.github.io/en/post/writing-write/</loc>
+    <loc>https://strivenword.github.io/en/post/writing-right/</loc>
     <lastmod>2021-02-24T23:21:30-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://strivenword.github.io/post/writing-right/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://strivenword.github.io/en/post/writing-right/"
+                />
   </url>
   
   <url>
