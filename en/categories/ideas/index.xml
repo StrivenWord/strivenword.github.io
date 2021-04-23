@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ideas on Resti</title>
+    <link>https://strivenword.github.io/en/categories/ideas/</link>
+    <description>Resti (ideas)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>eo</language>
+    <lastBuildDate>Fri, 23 Apr 2021 00:00:00 +0000</lastBuildDate>
+    
+    <atom:link href="https://strivenword.github.io/en/categories/ideas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NextCloud Kontraŭ OneDrive</title>
+      <link>https://strivenword.github.io/en/post/nextcloud-vs-onedrive/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://strivenword.github.io/en/post/nextcloud-vs-onedrive/</guid>
+      <description>&lt;p&gt;Verkistoj bezonas kompletan ilujon, aŭ ili neniam eskapos la bazaron de mallimigitaj ebloj. Tial programaroj ekzistas pri ĉiu problemo kaj detalo laŭ la fluo el imago al informaĵo al publikigo. Du retnuba programaroj por datuma gastigo estas la Dropbox kaj la OneDrive, sed eble pli bona solvaĵo je verkistinta estas tio, ke la malferma-programara NextCloud instaliĝos permane. Ĉi tiu estas malpli multekosta kaj malpli komplika de tio, oni uzas specialajn eblecojn de la Dropbox aŭ la OneDrive.&lt;/p&gt;
+&lt;p&gt;Por multaj, simpleco estas la direktanta strategio, sed iam verkistoj alprenas dosier-sinkronajn kaj dosier-konservajn sistemojn. Ĉu neniu alia afero, sinkronaj programaroj kiel la Dropbox, la Onedrive, ktp faciligas por diversaj retapartoj aliro de oniaj dokumentoj.&lt;/p&gt;
+&lt;p&gt;Tamen, la tago alvenos kiam la One Drive aŭ la Dropbox ne sufiĉas. Kiam oni volas havigi dosierojn kun oniaj kolegoj, kaj la plej simpleca motodo necesigas la uzon de longaj ligoj malgracie almetinta al mesaĝoj. Kiel alia problemoj de simpleco, la plej simpleca solvaĵo lasas malorganizantan komplikecon. Por iu, sufiĉe komplika verkist-projekto, kelka motodo kunordigi diversajn specojn de dosieroj kun oniaj teamanoj.&lt;/p&gt;
+&lt;p&gt;Por simpleco, estus plej ideala, se la sama sistemo povus plivastiĝi, por ke, tute la sama programaro kapablus farigi la dosieran sinkronaĵon kaj organizaĵon. Estas êc pli dezirinda, ke la sama programaro devus enteni la aŭtorajn komentariojn kaj skemojn. Post kiam, ambaŭ plurobla dosieroj kaj plurobla personoj koncerniĝas, integrita solvaĵo iĝas dezirinda. La problemo estas, ke la pli multampleskaj instaloj de Dropbox kaj OneDrive, kiuj estas senpaga en ilian elementaj uzaĵoj, ambău kostas multan monon kaj bezonas teĥnikan lertegecon.&lt;/p&gt;
+&lt;h2 id=&#34;dropbox&#34;&gt;Dropbox&lt;/h2&gt;
+&lt;p&gt;La Dropbox programaro estis la unua dosier-sinkrona sistemo, ke fariĝas popularan. Ĝia facila savkopio kaj sinkrono kaŭzis tion, ke homoj alkutimiĝas havanta aŭtomate ilian dosierojn en multaj komputiloj kaj en la interreto. Tamen, aspiro trans ĉi tio utilo ĉiam estis malhavanta klareco. Hodiaŭ, la eblo por hierarĥio de dosier-sankioj kun multaj uzantoj kostas monon, kaj la programaraj eblecoj estas limigita.&lt;/p&gt;
+&lt;p&gt;Por speciala funckieco, la Dropbox ŝargas Usona $15 monate por adminstra panelo.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;- administra panelo: $15 monate
+- nievelanta administra roloj: $25 monate
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;onedrive&#34;&gt;OneDrive&lt;/h2&gt;
+&lt;p&gt;La OneDrive venas el Microsoft-korporacio, kaj estas antaŭinstalita en la Windows-sistemo, kiu estis populariganta ĝin.&lt;/p&gt;
+&lt;p&gt;OneDrive donas nur 5 gigabajtojn senpage. Plua datum-konservo ekas al Usona $1.99 por 100 gigabajtoj, kaj sekve estas asocianta je abonoj de la Microsoft 365 programaraj akompanantaro. Tamen, speciala administraĵo neniam okazas je iu abona nivelo. Por tio, oni devas rigardi tion, ke la retnuba programaro nomita ShareSpace kaj asocianta servoj faciligas. Estas evidente, ke ĉi tio superŝarĝus la celojn de verkistoj.&lt;/p&gt;
+&lt;h2 id=&#34;nextcloud&#34;&gt;NextCloud&lt;/h2&gt;
+&lt;p&gt;Unu solvaĵo implicas ke oni aĉetas aparta retservilo pri la DigitalOcean. Ĉi tiu monate kostas proksimume Usona $5.50, surbaze de uzadon, kiu povas diversi depende de la nombre de okazaĵoj, ke oni instalis la retservilajn programarojn. La kosto de $5.50 venas al la mezkvanto je la monata finpagoj de la nuna aŭtoro, laŭ ses monatoj.&lt;/p&gt;
+&lt;p&gt;Certe instali la NextCloud estas inviti komplekseco, sed ĉi tiu enfokusigas ĝin laǔ onies persona laborfluo. Estas difinitaj instrukcioj pri ĉi tiu realigo, do tiuj, kiuj komprenas sian dosier-sistemojn povas havi la avantaĝojn de administraĵo kaj plurobla roloj per nur iom da plua komplekseco komparita de la Dropbox aŭ la OneDrive. Verkistoj eble estas homoj, kiuj profitus pro la ordo el regado de tio, kiun ili komprenas. Ĉi tio povas bildigi tiujn, kiuj scias Esperanton.&lt;/p&gt;
+&lt;p&gt;La vera celo estas tio, oni komprenas la fontoj de la neevitebla komplekseco. La nuna aserto estas tio, ke la rego de unu fonto de komplekseco estas pli bona ol malgranda sciaro pri multaj. Kie ĉia graveco, kiel mona kosto kaj entendebleco, estas konsiderinta, la eblo de persona retnubo eble estas bona solvaĵo por verkistoj.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
