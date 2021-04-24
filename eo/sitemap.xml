@@ -3,6 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://strivenword.github.io/tags/angla-lingvo/</loc>
+    <lastmod>2021-04-24T07:32:09-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://strivenword.github.io/post/</loc>
+    <lastmod>2021-04-24T07:32:09-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://strivenword.github.io/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://strivenword.github.io/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://strivenword.github.io/tags/</loc>
+    <lastmod>2021-04-24T07:32:09-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://strivenword.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://strivenword.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://strivenword.github.io/post/scammed/</loc>
+    <lastmod>2021-04-24T07:32:09-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://strivenword.github.io/en/post/scammed/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://strivenword.github.io/post/scammed/"
+                />
+  </url>
+  
+  <url>
     <loc>https://strivenword.github.io/categories/</loc>
     <lastmod>2021-04-23T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -43,43 +93,8 @@
   </url>
   
   <url>
-    <loc>https://strivenword.github.io/post/</loc>
-    <lastmod>2021-04-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://strivenword.github.io/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="eo"
-                href="https://strivenword.github.io/post/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://strivenword.github.io/tags/</loc>
-    <lastmod>2021-04-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://strivenword.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="eo"
-                href="https://strivenword.github.io/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>https://strivenword.github.io/categories/te%C4%A5nologia/</loc>
     <lastmod>2021-04-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://strivenword.github.io/tags/angla-lingvo/</loc>
-    <lastmod>2021-02-24T23:21:30-05:00</lastmod>
   </url>
   
   <url>
