@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://strivenword.github.io/en/post/</loc>
+    <lastmod>2021-09-24T07:37:18-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://strivenword.github.io/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://strivenword.github.io/en/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://strivenword.github.io/en/post/reformanda-bildo/</loc>
+    <lastmod>2021-09-24T07:37:18-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://strivenword.github.io/en/categories/</loc>
     <lastmod>2021-09-02T19:09:23-04:00</lastmod>
     <xhtml:link
@@ -25,21 +45,6 @@
   <url>
     <loc>https://strivenword.github.io/en/categories/poetry/</loc>
     <lastmod>2021-09-02T19:09:23-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://strivenword.github.io/en/post/</loc>
-    <lastmod>2021-09-02T19:09:23-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="eo"
-                href="https://strivenword.github.io/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://strivenword.github.io/en/post/"
-                />
   </url>
   
   <url>
